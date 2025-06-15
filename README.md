@@ -1,6 +1,6 @@
 # 💬 Random Quote Generator
 
-This is a clean and minimal **Random Quote Generator** web app built as part of the [CodeAlpha App Development Internship](https://www.codealpha.tech/).
+This is a clean and minimal **Random Quote Generator** web app.
 
 It displays motivational quotes randomly with author names using simple JavaScript logic and a futuristic glassmorphism-inspired UI.
 
@@ -25,7 +25,7 @@ It displays motivational quotes randomly with author names using simple JavaScri
 
 ## 📁 Folder Structure
 
-CodeAlpha_RandomQuoteGenerator/<br>
+RandomQuoteGenerator/<br>
 ├── index.html<br>
 ├── style.css<br>
 ├── script.js<br>
